@@ -14,7 +14,7 @@ And save this appID and Secret in the '/sparks/facebook_sdk/[version #]/config/f
 
 Once you've got the spark set up, you can load it using:
 
-	$this->load->spark('facebook_sdk/[version #]');
+	$this->load->spark('Facebook-SDK/[version #]');
 
 
 When Facebook-SDK is loaded, you can make calls to the facebook api as follows.
