@@ -10,7 +10,7 @@ The facebook SDK is available for Codeigniter via [Sparks](http://getsparks.org/
 
 You'll need to setup and app and get an appID and Secret key from [Facebook](http://developer.facebook.com).
 
-And save this appID and Secret in the '/sparks/facebook_sdk/[version #]/config/facebook_config.php'.
+And save this appID and Secret in the '/sparks/Facebook-SDK/[version #]/config/facebook_config.php'.
 
 Once you've got the spark set up, you can load it using:
 
