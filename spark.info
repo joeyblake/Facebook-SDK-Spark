@@ -1,6 +1,6 @@
 # This is the spark name. This should be the registered name of the spark.
 # It is here for informational purposes only.
-name: Facebook-SDK
+name: Facebook-SDK-Spark
 
 # This is the current version of this spark. All sparks should be in
 #  x.x.x format. Validation will fail otherwise.
