@@ -14,20 +14,20 @@ And save this appID and Secret in the '/sparks/facebook_sdk/[version #]/config/f
 
 Once you've got the spark set up, you can load it using:
 
-  $this->load->spark('facebook_sdk/[version #]');
+	$this->load->spark('facebook_sdk/[version #]');
 
 
 When Facebook-SDK is loaded, you can make calls to the facebook api as follows.
 
 ### Set get login URL
 
-  $this->facebook->getLoginURL();
+	$this->facebook->getLoginURL();
 
 ### Make a Facebook API call
 
-  $this->facebook->api('/codeigniter');
+	$this->facebook->api('/codeigniter');
 
-Other documentation for the Facebook PHP SDK can be found at [https://github.com/facebook/php-sdk/](https://github.com/facebook/php-sdk/).  
+Other documentation for the Facebook PHP SDK can be found at [https://github.com/facebook/php-sdk/](https://github.com/facebook/php-sdk/).	
 
 Author
 ------
